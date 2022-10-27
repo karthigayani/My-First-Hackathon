@@ -1,0 +1,23 @@
+/* Index.css */
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+body{
+    /* background-image: url("brewery_191643227.jpg"); */
+    /* background-image: url("craft beer bottles generic getty main (Custom).jpg"); */
+    /* background-image: url("breweriesoftheunitedstates.jpg"); */
+    /* background-image: url("istockphoto-1043476932-612x612.jpg"); */
+    background-image: url("456.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.form-group{
+    /* border:1px solid white; */
+    color:powderblue;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: whitesmoke; */
+}
